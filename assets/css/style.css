@@ -269,5 +269,8 @@ footer {
         float: left;
         padding: 0;
     }
+    hr {
+        display: none;
+    }
 
 }
